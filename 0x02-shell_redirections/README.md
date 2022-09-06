@@ -21,3 +21,31 @@ Task8: Write a script that writes into the file ls_cwd_content the result of the
 
 Task9: Write a script that duplicates the last line of the file iacta
 - The file iacta will be in the working directory
+
+
+Task10: Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+
+Task11: Write a script that counts the number of directories and sub-directories in the current directory.
+- The current and parent directories should not be taken into account
+- Hidden directories should be counted
+
+Task12: Create a script that displays the 10 newest files in the current directory.
+- Requirements:
+- One file per line
+- Sorted from the newest to the oldest
+
+Task13: Create a script that takes a list of words as input and prints only words that appear exactly once.
+- Input format: One line, one word
+- Output format: One line, one word
+- Words should be sorted
+
+Task14: Display lines containing the pattern “root” from the file /etc/passwd
+
+Task15: Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+
+Task16: Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+Task17: Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+Task18: Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+- include capital letters as well
