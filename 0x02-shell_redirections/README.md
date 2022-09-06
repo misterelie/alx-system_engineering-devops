@@ -33,6 +33,26 @@ Task12: Create a script that displays the 10 newest files in the current directo
 - Requirements:
 - One file per line
 
+Task23: Write a command that finds all empty files and directories in the current directory and all sub-directories.
+- Only the names of the files and directories should be displayed (not the entire path)
+- Hidden files should be listed
+- One file name per line
+- The listing should end with a new line
+- You are not allowed to use basename, grep, egrep, fgrep or rgrep
+
+Task24:�Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories. - Hidden files should be listed
+- Only regular files (not directories) should be listed
+- The names of the files should be displayed without their extensions
+- The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
+- One file name per line
+- The listing should end with a new line
+- You are not allowed to use basename, grep, egrep, fgrep or rgrep
+
+Task25: An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. Read more.
+- Create a script that decodes acrostics that use the first letter of each line.
+- The ‘decoded’ message has to end with a new line
+- You are not allowed to use grep, egrep, fgrep or rgrep
+
 - Sorted from the newest to the oldest
 
 Task13: Create a script that takes a list of words as input and prints only words that appear exactly once.
@@ -60,3 +80,23 @@ Task21: Write a script that reverse its input.
 
 Task22: Write a script that displays all users and their home directories, sorted by users.
 - Based on the the /etc/passwd file
+
+Task23: Write a command that finds all empty files and directories in the current directory and all sub-directories.
+- Only the names of the files and directories should be displayed (not the entire path)
+- Hidden files should be listed
+- One file name per line
+- The listing should end with a new line
+- You are not allowed to use basename, grep, egrep, fgrep or rgrep
+
+Task24:�Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories. - Hidden files should be listed
+- Only regular files (not directories) should be listed
+- The names of the files should be displayed without their extensions
+- The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
+- One file name per line
+- The listing should end with a new line
+- You are not allowed to use basename, grep, egrep, fgrep or rgrep
+
+Task25: An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. Read more.
+- Create a script that decodes acrostics that use the first letter of each line.
+- The ‘decoded’ message has to end with a new line
+- You are not allowed to use grep, egrep, fgrep or rgrep
