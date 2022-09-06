@@ -32,6 +32,7 @@ Task11: Write a script that counts the number of directories and sub-directories
 Task12: Create a script that displays the 10 newest files in the current directory.
 - Requirements:
 - One file per line
+
 - Sorted from the newest to the oldest
 
 Task13: Create a script that takes a list of words as input and prints only words that appear exactly once.
@@ -49,3 +50,13 @@ Task17: Display all the lines in the file /etc/passwd that do not contain the pa
 
 Task18: Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 - include capital letters as well
+
+
+Task19: Replace all characters A and c from input to Z and e respectively.
+
+Task20: Create a script that removes all letters c and C from input.
+
+Task21: Write a script that reverse its input.
+
+Task22: Write a script that displays all users and their home directories, sorted by users.
+- Based on the the /etc/passwd file
